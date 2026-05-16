@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-# Nathan Bodin
-
-I'm 19, a student at 42 Lyon in France. I'm learning to build reasoning systems.
+I'm Nathan, 19, a student at 42 Lyon in France. I'm learning to build reasoning systems.
 
 Currently exploring neural reasoning, distributed systems, algorithms, and decision-making mathematics.
 

@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 I'm Nathan, 19, a student at 42 Lyon in France. I'm learning to build reasoning systems.
 

@@ -3,6 +3,8 @@
 
 I'm Nathan, 19, a student at 42 Lyon in France.
 
+**Interests:** Trading · AI · Sport 
+
 **Tools:** C · C++ · Docker
 
 **Reach me:** www.linkedin.com/in/nathanbodin  

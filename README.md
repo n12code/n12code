@@ -3,7 +3,7 @@
 
 I'm Nathan, 19, a student at 42 Lyon in France.
 
-**Interests:** Trading · AI · Sport 
+**Interests:** Trading · Sport 
 
 **Tools:** C · C++ · Docker
 

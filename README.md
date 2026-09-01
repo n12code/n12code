@@ -5,7 +5,7 @@ I'm Nathan, 19, a student at 42 Lyon in France.
 
 **Interests:** Trading · Sport 
 
-**Tools:** C · C++ · Docker
+**Tools:** C · C++ · Docker · FastAPI · SQLAlchemy
 
 **Reach me:** www.linkedin.com/in/nathanbodin  
 

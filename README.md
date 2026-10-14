@@ -1,11 +1,18 @@
 ## Hey there 👾  
 
 
-I'm Nathan, 19, a student at 42 Lyon in France.
+I'm Nathan, 19, a student at 42 Lyon in France,
+preparing a RNCP level 7 qualification in database architecture and data.
 
-**Interests:** Trading · Sport 
+I'm interested in AI, Data, and Backend development.
+I'm currently researching a 6 month internship in the fields listed above.
 
-**Tools:** C · C++ · Docker · FastAPI · SQLAlchemy
+**Interests:** Trading · Sport · Photography 
+
+**Languages:** C · C++ · Python · SQL
+**Backend:** FastAPI, SQLAlchemy, Alembic
+**Database:** PostgreSQL
+**Environment:** Docker, Git, Linux, Makefile
 
 **Reach me:** www.linkedin.com/in/nathanbodin  
 

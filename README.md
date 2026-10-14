@@ -2,10 +2,10 @@
 
 
 I'm Nathan, 19, a student at 42 Lyon in France,  
-preparing a RNCP level 7 qualification in database architecture and data.
+preparing a RNCP level 7 Qualification in Database Architecture and Data.
 
 I'm interested in AI, Data, and Backend development.  
-I'm currently researching a 6 month internship in the fields listed above.
+I'm currently researching a 6 month Internship in the fields listed above.
 
 **Interests:** Trading · Sport · Photography   
 
